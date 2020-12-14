@@ -1,7 +1,7 @@
 # adventofcode2020
 Solutions to https://adventofcode.com/2020
 
-This year I'm optimizing the thought-to-code compiler rather than elegant or efficient solutions.
+This year I'm optimizing for the thought-to-code compiler rather than for elegant or efficient solutions.
 
 
 ## Themes
