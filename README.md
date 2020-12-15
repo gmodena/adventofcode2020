@@ -19,4 +19,4 @@ This year I'm optimizing for the thought-to-code compiler rather than for elegan
  12. Path finding + reference systems
  13. Chinese Reminder Theorem
  14. Bitmask
- 15. Hashamp, [Van Eck sequence](https://www.numberphile.com/videos/van-eck-sequence)
+ 15. Hashamp, [Van Eck sequence](https://oeis.org/A181391)
