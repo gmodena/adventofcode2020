@@ -20,3 +20,6 @@ This year I'm optimizing for the thought-to-code compiler rather than for elegan
  13. Chinese Reminder Theorem
  14. Bitmask
  15. Hashamp, [Van Eck sequence](https://oeis.org/A181391)
+ 16.
+ 17.
+ 18. Parsing (Shunting Yard)
