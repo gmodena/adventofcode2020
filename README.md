@@ -24,3 +24,5 @@ This year I'm optimizing for the thought-to-code compiler rather than for elegan
  17.
  18. Parsing (Shunting Yard)
  19. Parsing, recursion
+ 20.
+ 21. Set operations
