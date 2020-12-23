@@ -27,3 +27,4 @@ This year I'm optimizing for the thought-to-code compiler rather than for elegan
  20.
  21. Set operations
  22. Double-ended queue, recursion
+ 23. Linked-list
