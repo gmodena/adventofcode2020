@@ -9,7 +9,7 @@ This year I'm optimizing for the thought-to-code compiler rather than for elegan
  2. Hashtables
  3. Path finding
  4. Regexp / input validation
- 5. [Change of base](https://nowave.it/aoc2020-day-5-binary-boarding.html)
+ 5. [Bit operation](https://nowave.it/aoc2020-day-5-binary-boarding.html)
  6. Set operations
  7. BFS
  8. Asm
@@ -28,3 +28,4 @@ This year I'm optimizing for the thought-to-code compiler rather than for elegan
  21. Set operations
  22. Double-ended queue, recursion
  23. Linked-list
+ 24. [Hexagonal grid](https://www.redblobgames.com/grids/hexagons/)
