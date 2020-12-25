@@ -29,3 +29,4 @@ This year I'm optimizing for the thought-to-code compiler rather than for elegan
  22. Double-ended queue, recursion
  23. Linked-list
  24. [Hexagonal grid](https://www.redblobgames.com/grids/hexagons/)
+ 25. [Cryptography](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) 
